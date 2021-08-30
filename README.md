@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Callen1
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m data analyst proficient in SQL, Tableau, Power BI, Python
+- 🌱 I’m currently learning Advanced Python and R
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me ...
 
