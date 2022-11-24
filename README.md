@@ -2,7 +2,7 @@
 - 👀 I’m a data scientist proficient in Python, SQL, Tableau, Power BI
 - 🌱 I’m currently learning Advanced Python
 - 💞️ I’m looking to collaborate on data analytics projects
-- 📫 How to reach me ...
+- 📫 How to reach me csausi997@gmail.com
 
 <!---
 Callen1/Callen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
